@@ -1,0 +1,4 @@
+tree-sitter*
+node_modules
+build
+target
